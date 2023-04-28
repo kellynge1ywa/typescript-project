@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    background: rgb(67, 131, 67);
+    justify-content: space-around;
+    padding: 1rem;
+}
+
+.myImage {
+    width: 30%;
+}
+
+.container {
+    background: rgb(20, 66, 20);
+    display: flex;
+}
+
+.body {
+    display: flex;
+}
+
+.habit {
+    /* background: red; */
+    padding: 0.5rem;
+    border: 2px solid black;
+    margin: 1rem;
+}

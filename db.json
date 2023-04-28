@@ -1,0 +1,33 @@
+{
+    "habit": [{
+            "id": 1,
+            "name": "Walking",
+            "startDate": "24-01-2022"
+        },
+        {
+            "id": 2,
+            "name": "coding",
+            "startDate": "20-01-2022"
+        },
+        {
+            "id": 3,
+            "name": "Exercising",
+            "startDate": "3-01-2023"
+        },
+        {
+            "id": 4,
+            "name": "Waking up early",
+            "startDate": "01-01-2023"
+        },
+        {
+            "id": 5,
+            "name": "Reading books",
+            "startDate": "2-02-2023"
+        },
+        {
+            "id": 6,
+            "name": "Riding bicycle",
+            "startDate": "10-01-2023"
+        }
+    ]
+}
